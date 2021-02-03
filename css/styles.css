@@ -874,7 +874,7 @@ input[type='checkbox'] {
 	position: absolute;
 	width: 6rem;
 	height: 6rem;
-	background: url('hexagon-green.svg') center center no-repeat;
+	background: url('../images/hexagon-green.svg') center center no-repeat;
 	background-size: 6rem 6rem;
 }
 
