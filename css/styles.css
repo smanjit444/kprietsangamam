@@ -58,7 +58,7 @@ body, p {
 }
 
 .p-large {
-	font: 400 1.125rem/1.625rem "Open Sans", sans-serif;color: #787976;
+	font: 400 1.125rem/1.625rem "Open Sans", sans-serif;
 }
 
 .p-small {
@@ -772,7 +772,7 @@ input[type='checkbox'] {
 /*    04. Header     */
 /*********************/
 .header {
-	background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.5)), url('smanjit444/images/header-background.jpg.jpg') center no-repeat;
+	background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.5)), url('../images/header-background.jpg') center center no-repeat;
 	background-size: cover;
 }
 
@@ -874,9 +874,8 @@ input[type='checkbox'] {
 	position: absolute;
 	width: 6rem;
 	height: 6rem;
-	background-color:#14bf98;
+	background: url('../images/hexagon-green.svg') center center no-repeat;
 	background-size: 6rem 6rem;
-	border-radius:50%;
 }
 
 .cards-1 .fa-stack-1x {
