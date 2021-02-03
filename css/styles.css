@@ -771,35 +771,7 @@ input[type='checkbox'] {
 /*********************/
 /*    04. Header     */
 /*********************/
-.header {
-	background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.5)), url('../images/header-background.jpg') center center no-repeat;
-	background-size: cover;
-}
 
-.header .header-content {
-	padding-top: 8rem;
-	padding-bottom: 2.125rem;
-	text-align: center;
-}
-
-.header .text-container {
-	margin-bottom: 3rem;
-}
-
-.header h1 {
-	margin-bottom: 0.5rem;
-	color: #fff;
-}
-
-.header .p-large {
-	margin-bottom: 2rem;
-	color: #dfe5ec;
-}
-
-.header .btn-solid-lg {
-	margin-right: 0.5rem;
-	margin-bottom: 1.25rem;
-}
 
 
 /*********************/
@@ -874,7 +846,7 @@ input[type='checkbox'] {
 	position: absolute;
 	width: 6rem;
 	height: 6rem;
-	background: url('../images/hexagon-green.svg') center center no-repeat;
+	background: url('hexagon-green.svg') center center no-repeat;
 	background-size: 6rem 6rem;
 }
 
